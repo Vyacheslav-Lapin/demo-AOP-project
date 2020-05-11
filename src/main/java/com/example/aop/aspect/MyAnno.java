@@ -1,4 +1,4 @@
-package ru.vlapin.experiments.demoproject.aop;
+package com.example.aop.aspect;
 
 import java.lang.annotation.Retention;
 
